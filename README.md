@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">🧑‍💻 Tech Stack 🧑‍💻</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🛠 Frameworks 🛠</h3>
+<h3 align="center">🔨 Frameworks 🔨</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">&nbsp
     <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">&nbsp<br><br>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">💻 Studying 💻</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp
@@ -49,39 +49,48 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🔧 Tools 🔧</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp<br>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp<br>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp  
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp
 </div>
 
 <br>
 
-<h3 align="center">🛠 Libraries 🛠</h3>
+<h3 align="center">📚 Libraries 📚</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">&nbsp  
-    <img src="https://img.shields.io/badge/Video.js-FF4B00.svg?style=for-the-badge&logo=video.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Video.js-FF4B00.svg?style=for-the-badge&logo=video.js&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/vue--svg--pan--zoom-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue-svg-pan-zoom Badge">&nbsp
+    <img src="https://img.shields.io/badge/Pinch.js-000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Pinch.js Badge">&nbsp
+    <img src="https://img.shields.io/badge/TOAST%20UI-007BE3.svg?style=for-the-badge&logo=toast&logoColor=white" alt="TOAST UI Badge">&nbsp
+
 </div>
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📨 Contact 📨</h3>
 <div align="center">
-    <a href="mailto:nohx051@naver.com">
+    <a>
         <img src="https://img.shields.io/badge/NAVER-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white" alt="NAVER Badge">
     </a>
-    <a href="mailto:no940901@gmail.com">
+    <a>
         <img src="https://img.shields.io/badge/no940901@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://ncg1375.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tistory-FF5722.svg?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge">
     </a>
 </div>
 
 <br>
 
+<h3 align="center">🔥 I'm working hard now!! 🔥</h3>
 <div align="center">
     <a href="https://github.com/devxb/gitanimals">
         <img
