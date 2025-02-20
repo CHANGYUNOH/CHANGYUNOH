@@ -92,11 +92,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">🔥 I'm working hard now!! 🔥</h3>
 <div align="center">
-    <a href="https://github.com/devxb/gitanimals">
-        <img
-          src="https://render.gitanimals.org/farms/changyu"
-          width="600"
-          height="300"
-        />
-    </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CHANGYUNOH&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/CHANGYUNOH"
+      width="600"
+      height="300"
+    />
+  </a>
 </div>
